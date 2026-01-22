@@ -1,0 +1,6 @@
+[x] The PHP file runs successfully without errors/warnings.
+[x] Student information variables are declared correctly ($name, $studentId, $class, $email).
+[x] Date and time are displayed using PHP date() function.
+[x] Timezone is set (Asia/Ho_Chi_Minh).
+[x] Output is shown clearly in the browser via localhost.
+[x] Code is formatted neatly and includes comments.
